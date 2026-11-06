@@ -8,7 +8,7 @@
 const CONFIG = {
   // WhatsApp number in international format: digits only,
   // no "+", no spaces, no leading zeros. Example: "639171234567"
-  whatsapp: "639000000000",
+  whatsapp: "+6422 034 2424",
 
   // Where enquiries should be emailed.
   email: "hello@nexatripsandtravels.com",
