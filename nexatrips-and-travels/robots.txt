@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace YOUR-USERNAME and the repo name after your first deploy.
+Sitemap: https://YOUR-USERNAME.github.io/nexatrips-and-travels/sitemap.xml
